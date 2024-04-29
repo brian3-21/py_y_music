@@ -11,3 +11,4 @@ This is a Python program that allows you to download audio from YouTube videos u
 ### Prerequisites
 - Python 3.x
 - pytube library (install using `pip install pytube`)
+- tkinter library (install using `pip install tk`)
